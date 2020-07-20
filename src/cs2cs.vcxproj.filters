@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="cs2cs.c">
+      <Filter>Source Files\Bin</Filter>
+    </ClCompile>
+    <ClCompile Include="gen_cheb.c">
+      <Filter>Source Files\Bin</Filter>
+    </ClCompile>
+    <ClCompile Include="p_series.c">
+      <Filter>Source Files\Bin</Filter>
+    </ClCompile>
+    <ClCompile Include="emess.c">
+      <Filter>Source Files\Core</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files\Core">
+      <UniqueIdentifier>{E9052DFB-8C6D-4760-97C9-41236DED6CD2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Bin">
+      <UniqueIdentifier>{F8BDF06D-379A-43F0-9644-DDF372524B95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D5AD9C09-FAB0-43FB-9B1F-B7554C6FAD55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Files">
+      <UniqueIdentifier>{C00D665E-3528-4CD2-BFC9-84A651E70CF8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

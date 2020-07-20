@@ -1,0 +1,11 @@
+D:/Development/op3d_active/Proj-4.9.0/CMakeFiles/ALL_BUILD.dir
+D:/Development/op3d_active/Proj-4.9.0/CMakeFiles/Continuous.dir
+D:/Development/op3d_active/Proj-4.9.0/CMakeFiles/Experimental.dir
+D:/Development/op3d_active/Proj-4.9.0/CMakeFiles/Nightly.dir
+D:/Development/op3d_active/Proj-4.9.0/CMakeFiles/NightlyMemoryCheck.dir
+D:/Development/op3d_active/Proj-4.9.0/CMakeFiles/ZERO_CHECK.dir
+D:/Development/op3d_active/Proj-4.9.0/src/CMakeFiles/binproj.dir
+D:/Development/op3d_active/Proj-4.9.0/src/CMakeFiles/cs2cs.dir
+D:/Development/op3d_active/Proj-4.9.0/src/CMakeFiles/geod.dir
+D:/Development/op3d_active/Proj-4.9.0/nad/CMakeFiles/null.dir
+D:/Development/op3d_active/Proj-4.9.0/src/CMakeFiles/proj.dir
